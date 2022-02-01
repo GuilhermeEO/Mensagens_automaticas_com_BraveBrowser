@@ -1,5 +1,5 @@
 # Mensagens_automaticas_com_BraveBrowser
-#Automação com Selenium e Pandas para o Whatsapp
+#Automação com Selenium e Pandas para o Whatsapp, usando Python
 
 
 import pandas as pd
