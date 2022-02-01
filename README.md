@@ -4,6 +4,8 @@
 
 import pandas as pd
 
+#Crie uma planilha no Excel com o nome Enviar e crie 3 colunas, Pessoa, Número, Mensagem e complete elas com os dados
+
 contatos_df = pd.read_excel("Enviar.xlsx")
 
 #display(contatos_df)
